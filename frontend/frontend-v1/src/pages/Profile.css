@@ -1,0 +1,84 @@
+.text-muted{
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 1rem;
+}
+
+.form-group2 label{
+    color: black;
+    font-size: 15px;
+}
+.card-primary.card-outline{
+    border-top: 4px solid  #070242;
+} 
+.card-header{
+    background-color:#070242 ;
+}
+ .card-titel h3{
+    color: #f3f3f3;
+}
+.form-group2 input{
+    margin-top: 6px;
+    max-width: 18em;
+    height: 37px;
+    padding: 0px 10px;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #f3f3f3;
+    border: 0;
+    border-radius: 4px;
+    margin-bottom: 31px;
+    transition: all 250ms ease-in-out;
+    
+  }
+  
+  .form-group2 input:focus{
+    outline: none;
+    box-shadow: 0px 0px 12px 0.5px rgb(187, 182, 182);
+  }
+
+  .form-group2 select{
+    margin-top: 6px;
+    max-width: 18em;
+    height: 37px;
+    padding: 0px 69px;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    background-color: #f3f3f3;
+    border: 0;
+    border-radius: 4px;
+    margin-bottom: 31px;
+    transition: all 250ms ease-in-out;
+  }
+.form-group2 textarea{
+  margin-top: 6px;
+  
+  height: 100px;
+ 
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  background-color: #f3f3f3;
+  border: 0;
+  border-radius: 4px;
+  margin-bottom: 31px;
+}
+
+.form-check input{
+  height: 16px;
+  margin-top: 6px;
+  max-width: 18em;
+  padding: 0px 72px;
+  font-size: 16px;
+
+  border: 0;
+  border-radius: 4px;
+  margin-bottom: 31px;
+}
+
+.ProgressBar label{
+  color: black;
+}
+
+.ProgressBar p{
+  color: black;
+}

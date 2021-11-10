@@ -1,0 +1,16 @@
+.main-sidebar{
+    background-color: rgb(139, 135, 135);
+}
+.nav-pills .nav-link.active{
+    background-color: rgb(92, 90, 90);
+}
+.brand-text {
+    color: #fff;
+}
+.sidebar-logo p{
+    color: #fff;
+}
+.info .d-block {
+ color: black;
+}
+
